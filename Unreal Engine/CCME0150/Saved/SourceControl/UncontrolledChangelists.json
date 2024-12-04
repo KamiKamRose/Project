@@ -5,7 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/TestingBlueprints/Test.umap"
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/TestingBlueprints/Test.umap",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/CCME0150/Images/Doll.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/dollmodel.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Material_001.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Material_001_BaseColor.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Material_001_Roughness.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/dollmodel_Anim_rig_Idle.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/dollmodel_Skeleton.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/dollmodel_PhysicsAsset.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/dollmodel_Anim_rig_doll_walk.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Material_001_Displacement.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Material_001_Normal.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/Doll_BlendSpace.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Doll/DollAnimations.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Blueprints/GameProgressionEnum.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Blueprints/ClickableThing.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Blueprints/GameManager.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/Characters/AI/Boophie/Mesh/BooAnimations.uasset",
+				"C:/Users/bebek/Documents/GitHub/Project/Unreal Engine/CCME0150/Content/TestingBlueprints/GameHub.uasset"
 			]
 		}
 	]
